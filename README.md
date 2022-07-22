@@ -1,4 +1,4 @@
-# usaco2023
+# USACO2023
 ---
 ## 账号注册
 - 注册[洛谷账号](https://www.luogu.com.cn/)（**主要练习**）
