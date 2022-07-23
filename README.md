@@ -10,20 +10,19 @@
 - #### 安装 **编译器**
 > 1. 下载 TDM-GCC 安装包 [点击开始下载](https://lestore.lenovo.com/detail/L101412) 
 > 2. 下载完成后，双击开始安装
->     1. 点击**Create** ![](picture/TDM-GCC1.png)
->     2. 点击**Next** ![](picture/TDM-GCC2.png)
->     3. 继续**Next** ![](picture/TDM-GCC3.png)
->     4. 点击**Install** ![](picture/TDM-GCC4.png)
->     5. 最后**Finish** ![](picture/TDM-GCC5.png)
->    
+>     1. 点击**Create** ![](https://s1.328888.xyz/2022/07/24/mYFlk.png)
+>     2. 点击**Next** ![](https://s1.328888.xyz/2022/07/24/mYmS7.png)
+>     3. 继续**Next** ![](https://s1.328888.xyz/2022/07/24/mYlom.png)
+>     4. 点击**Install** ![](https://s1.328888.xyz/2022/07/24/mYOkE.png)
+>     5. 最后**Finish** ![](https://s1.328888.xyz/2022/07/24/mYjJJ.png)
+
 - #### 安装 **编辑器**
 > 1. 下载 VScode 安装包 [点击开始下载](https://lestore.lenovo.com/detail/22856)
 > 2. 下载完成后，双击开始安装
->     1. 选择**我同意**，点击**下一步**  ![](picture/vscode1.png)
->     2. 一路点击**下一步**  ![](picture/vscode2.png)  ![](picture/vscode3.png)
->     3. 点击**安装**  
-> ![](picture/vscode4.png)
-
+>     1. 选择**我同意**，点击**下一步**  ![](https://s1.328888.xyz/2022/07/24/mYuWw.png)
+>     2. 一路点击**下一步**  ![](https://s1.328888.xyz/2022/07/24/mY43i.png)  ![](https://s1.328888.xyz/2022/07/24/mY6Pg.png)
+>     3. 点击**安装**  ![](https://s1.328888.xyz/2022/07/24/mYTYh.png)
+---
 ## 笔记软件安装
    *选择思维导图软件作为笔记*
 - mindmaster [点击开始下载](https://www.edrawsoft.cn/mindmaster/)
