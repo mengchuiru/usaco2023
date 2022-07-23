@@ -1,4 +1,4 @@
-# USACO2023
+# USACO2023 课前准备
 ---
 ## 账号注册
 - 注册[洛谷账号](https://www.luogu.com.cn/)（**主要练习**）
@@ -10,22 +10,22 @@
 - #### 安装 **编译器**
 > 1. 下载 TDM-GCC 安装包 [点击开始下载](https://lestore.lenovo.com/detail/L101412) 
 > 2. 下载完成后，双击开始安装
->     1. 点击**Create** ![](picture/安装TDM-GCC1.png)
->     2. 点击**Next** ![](picture/安装TDM-GCC2.png)
->     3. 继续**Next** ![](picture/安装TDM-GCC3.png)
->     4. 点击**Install** ![](picture/安装TDM-GCC4.png)
->     5. 最后**Finish** ![](picture/安装TDM-GCC5.png)
+>     1. 点击**Create** ![](https://github.com/mengchuiru/usaco2023/blob/master/picture/TDM-GCC1.png)
+>     2. 点击**Next** ![](picture/TDM-GCC2.png)
+>     3. 继续**Next** ![](picture/TDM-GCC3.png)
+>     4. 点击**Install** ![](picture/TDM-GCC4.png)
+>     5. 最后**Finish** ![](picture/TDM-GCC5.png)
 >    
 - #### 安装 **编辑器**
 > 1. 下载 VScode 安装包 [点击开始下载](https://lestore.lenovo.com/detail/22856)
 > 2. 下载完成后，双击开始安装
 >     1. 选择**我同意**，点击**下一步**  
-> ![](picture/安装vscode1.png)
+> ![](picture/vscode1.png)
 >     2. 一路点击**下一步**  
-> ![](picture/安装vscode2.png)  
-> ![](picture/安装vscode3.png)
+> ![](picture/vscode2.png)  
+> ![](picture/vscode3.png)
 >     3. 点击**安装**  
-> ![](picture/安装vscode4.png)
+> ![](picture/vscode4.png)
 
 ## 笔记软件安装
    *选择思维导图软件作为笔记*
