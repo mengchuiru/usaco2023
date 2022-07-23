@@ -27,3 +27,5 @@
 ## 笔记软件安装
    *选择思维导图软件作为笔记*
 - mindmaster [点击开始下载](https://www.edrawsoft.cn/mindmaster/)
+---
+![测试图片](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wEad?ver=fd8b)
