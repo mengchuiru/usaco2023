@@ -19,11 +19,8 @@
 - #### 安装 **编辑器**
 > 1. 下载 VScode 安装包 [点击开始下载](https://lestore.lenovo.com/detail/22856)
 > 2. 下载完成后，双击开始安装
->     1. 选择**我同意**，点击**下一步**  
-> ![](picture/vscode1.png)
->     2. 一路点击**下一步**  
-> ![](picture/vscode2.png)  
-> ![](picture/vscode3.png)
+>     1. 选择**我同意**，点击**下一步**  ![](picture/vscode1.png)
+>     2. 一路点击**下一步**  ![](picture/vscode2.png)  ![](picture/vscode3.png)
 >     3. 点击**安装**  
 > ![](picture/vscode4.png)
 
