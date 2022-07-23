@@ -10,11 +10,11 @@
 - #### 安装 **编译器**
 > 1. 下载 TDM-GCC 安装包 [点击开始下载](https://lestore.lenovo.com/detail/L101412) 
 > 2. 下载完成后，双击开始安装
->     1. 点击**Create** ![](https://gitee.com/mengchuiru/download/raw/master/image/TDM-GCC1.png)
->     2. 点击**Next** ![](picture/TDM-GCC2.png)
->     3. 继续**Next** ![](picture/TDM-GCC3.png)
->     4. 点击**Install** ![](picture/TDM-GCC4.png)
->     5. 最后**Finish** ![](picture/TDM-GCC5.png)
+>     1. 点击**Create** ![](https://raw.githubusercontent.com/mengchuiru/download/master/image/TDM-GCC1.png)
+>     2. 点击**Next** ![](https://raw.githubusercontent.com/mengchuiru/download/master/image/TDM-GCC2.png)
+>     3. 继续**Next** ![](https://raw.githubusercontent.com/mengchuiru/download/master/image/TDM-GCC3.png)
+>     4. 点击**Install** ![](https://raw.githubusercontent.com/mengchuiru/download/master/image/TDM-GCC4.png)
+>     5. 最后**Finish** ![](https://raw.githubusercontent.com/mengchuiru/download/master/image/TDM-GCC5.png)
 >    
 - #### 安装 **编辑器**
 > 1. 下载 VScode 安装包 [点击开始下载](https://lestore.lenovo.com/detail/22856)
