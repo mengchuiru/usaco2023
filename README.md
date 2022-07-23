@@ -10,7 +10,7 @@
 - #### 安装 **编译器**
 > 1. 下载 TDM-GCC 安装包 [点击开始下载](https://lestore.lenovo.com/detail/L101412) 
 > 2. 下载完成后，双击开始安装
->     1. 点击**Create** ![](https://github.com/mengchuiru/usaco2023/blob/62e63e1e6a698943379900103cad78528870281b/picture/TDM-GCC1.png)
+>     1. 点击**Create** ![](picture/TDM-GCC1.png)
 >     2. 点击**Next** ![](picture/TDM-GCC2.png)
 >     3. 继续**Next** ![](picture/TDM-GCC3.png)
 >     4. 点击**Install** ![](picture/TDM-GCC4.png)
