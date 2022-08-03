@@ -3,7 +3,7 @@
 ## 账号注册
 - 注册[洛谷账号](https://www.luogu.com.cn/)（**主要练习**）
    - 加入团队[思铺教育](https://www.luogu.com.cn/team/36943)
-- 注册[openjudge](http://noi.openjudge.cn/) （**前期使用**）
+<!-- - 注册[openjudge](http://noi.openjudge.cn/) （**前期使用**） -->
 - 注册[官方训练账号](https://train.usaco.org/)（**考前使用**）
 ---
 ## 编程软件安装
