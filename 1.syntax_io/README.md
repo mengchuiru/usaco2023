@@ -1,3 +1,111 @@
+# 作业
+
+P1001	P1000	P5703	P5704	P5705	P5706	P1425	P2433	P5708	P1421	P5709	P2181	P5707	P3954	T256405	T260346	T260371	T260385	T260392
+
+
+
+#  知识点
+![思维导图](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/USACO/usaco2023/1.syntax/IO.png)
+
+# 例题
+
+#### hello world
+
+```
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "hello world!" <<endl;
+    return 0;
+}
+```
+
+#### 输出第二个整数
+
+```
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a1, a2, a3;
+    cin >> a1 >> a2 >> a3;
+
+    cout << a2 <<endl;
+    return 0;
+}
+```
+
+#### 对齐输出
+ ```
+ #include <cstdio>
+
+int main()
+{
+    int a1, a2, a3;
+    scanf("%d %d %d", &a1, &a2, &a3);
+
+    printf("%8d\n%8d\n%8d", a1, a2, a3);
+
+    return 0;
+}
+ ```
+ #### 保留3位小数
+```
+#include <cstdio>
+int main()
+{
+    float a;
+    scanf("%f", &a);
+    printf("%.3f", a);
+
+    return 0;
+}
+```
+#### 字符三角形
+
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    char c;
+    cin >> c;
+    cout << ' ' << ' ' << c << endl;
+    cout << ' ' << c << c << c << endl;
+    cout << c << c << c << c << c << endl;
+
+    return 0;
+}
+```
+```
+#include <cstdio>
+
+int main()
+{
+    char c;
+    scanf("%c", &c);
+    printf("  %c\n %c%c%c\n%c%c%c%c%c\n",c,c,c,c,c,c,c,c,c);
+
+    return 0;
+}
+
+```
+
+---
+
+# 视频
+<video src="https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%BE-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.mp4" width="800px" height="600px" controls="controls"></video>
+
+[下载视频](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%BE-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.mp4)
+
+---
+
 ## ASCII码对照表
 |0b|0d|0x|字符| | 0b|0d|0x|字符| |0b|0d|0x|字符| | 0b|0d|0x|字符|
 |:-:|:-:|:-:|:-:|-|:-:|:-:|:-:|:-:|-|:-:|:-:|:-:|:-:|-|:-:|:-:|:-:|:-:|

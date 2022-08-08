@@ -4,8 +4,9 @@ using namespace std;
 
 int main()
 {
-    int a, b;
-    cin >> a >> b;
-    cout << a + b << endl;
+    int a1, a2, a3;
+    cin >> a1 >> a2 >> a3;
+
+    cout << a2 <<endl;
     return 0;
 }
