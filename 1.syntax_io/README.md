@@ -10,8 +10,7 @@ P1001	P1000	P5703	P5704	P5705	P5706	P1425	P2433	P5708	P1421	P5709	P2181	P5707	P3
 # 例题
 
 #### hello world
-
-```
+``` c++
 #include <iostream>
 
 using namespace std;
@@ -24,8 +23,7 @@ int main()
 ```
 
 #### 输出第二个整数
-
-```
+``` c++
 #include <iostream>
 
 using namespace std;
@@ -41,7 +39,7 @@ int main()
 ```
 
 #### 对齐输出
- ```
+ ``` c++
  #include <cstdio>
 
 int main()
@@ -55,7 +53,7 @@ int main()
 }
  ```
  #### 保留3位小数
-```
+``` c++
 #include <cstdio>
 int main()
 {
@@ -68,7 +66,7 @@ int main()
 ```
 #### 字符三角形
 
-```
+``` c++
 #include <iostream>
 using namespace std;
 
@@ -83,7 +81,7 @@ int main()
     return 0;
 }
 ```
-```
+``` c++
 #include <cstdio>
 
 int main()
