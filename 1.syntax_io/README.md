@@ -1,8 +1,6 @@
-# 作业
+# [作业](https://www.luogu.com.cn/training/207271#problems)
 
 P1001	P1000	P5703	P5704	P5705	P5706	P1425	P2433	P5708	P1421	P5709	P2181	P5707	P3954	T256405	T260346	T260371	T260385	T260392
-
-
 
 #  知识点
 ![思维导图](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/USACO/usaco2023/1.syntax_io/IO.png)
