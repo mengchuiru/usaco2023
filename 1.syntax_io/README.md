@@ -5,7 +5,7 @@ P1001	P1000	P5703	P5704	P5705	P5706	P1425	P2433	P5708	P1421	P5709	P2181	P5707	P3
 
 
 #  知识点
-![思维导图](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/USACO/usaco2023/1.syntax/IO.png)
+![思维导图](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/USACO/usaco2023/1.syntax_io/IO.png)
 
 # 例题
 
