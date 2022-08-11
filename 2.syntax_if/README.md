@@ -1,4 +1,4 @@
-# [点击转到视频](#video)
+# [点击转到视频 ↓ ](#video)
 
 # [作业](https://www.luogu.com.cn/training/207785#problems)
 
