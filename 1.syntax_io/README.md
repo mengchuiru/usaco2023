@@ -139,6 +139,6 @@ int main()
 ---
 
 # video
-<video src="https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%BE-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.mp4" width="800px" height="600px" controls="controls"></video>
+<video src="https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/%E7%AC%AC1%E8%AF%BE-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.mp4" width="800px" height="600px" controls="controls"></video>
 
-[下载视频](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%AF%BE-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.mp4)
+[下载视频](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/%E7%AC%AC1%E8%AF%BE-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.mp4)

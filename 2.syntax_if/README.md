@@ -9,7 +9,7 @@
 # 例题
 
 #### 【深基3.例2】数的性质
-``` c++
+``` cpp
 #include <iostream>
 using namespace std;
 
