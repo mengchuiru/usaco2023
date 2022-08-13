@@ -223,7 +223,8 @@ int main()
 
 # video
 
-- 视频1
+- 视频
+
 <video src="https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/%E7%AC%AC3%E8%AF%BE.mp4" width="800px" height="600px" controls="controls"></video>
 
 [下载视频](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/%E7%AC%AC3%E8%AF%BE.mp4)
