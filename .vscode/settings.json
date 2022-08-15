@@ -1,7 +1,6 @@
 {
     "files.associations": {
         "*.ino": "arduino-output",
-        "iostream": "cpp",
-        "ostream": "cpp"
+        "iostream": "cpp"
     }
 }
