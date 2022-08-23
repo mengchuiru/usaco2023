@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int a;
-
+int a = 10;
 string s, s1, s2; //声明
 
 int main()
@@ -13,6 +12,8 @@ int main()
     s1 = "23";
     a = s.find(s1);
     s2 = s.insert(3, s1);
+
+    cout << a << endl;
 
     cout << s[3] << endl;
     cout << s.substr(2, 5) << endl; // 截取一段
