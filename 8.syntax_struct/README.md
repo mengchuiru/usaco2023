@@ -1,10 +1,10 @@
 # [点击转到视频 ↓ ](#video)
 
-# [作业链接]()
-P5735,P5736,P5737,P5738,P5739,P5461,P5740,P5741,P5742,P1075,P1304,P1217,P2415,P5743,P5744
+# 作业链接
+[P5461 赦免战俘](https://www.luogu.com.cn/problem/P5461)
 
 #  知识点
-![思维导图]()
+![思维导图](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/USACO/usaco2023/8.syntax_struct/struct.png)
 
 # 例题
 
