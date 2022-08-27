@@ -7,7 +7,7 @@ int p[N], cnt = 0;
 bool st[N];
 
 // 埃氏筛法
-// void isp(int n)
+// void setp(int n)
 // {
 //     for (int i = 2; i < n; i++)
 //     {
@@ -21,7 +21,6 @@ bool st[N];
 // }
 
 //线性筛法 欧拉筛
-
 void setp(int n)
 {
     for (int i = 2; i <= n; i++)
