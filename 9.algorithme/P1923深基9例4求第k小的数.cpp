@@ -14,19 +14,17 @@ void qsort(int q[], int l, int r)
     int x = q[l], i = l - 1, j = r + 1;
     while (i < j)
     {
-        do
-            i++;
-        while (q[i] < x);
-        do
-            j--;
-        while (q[j] > x);
+        while (q[++i] < x)
+            ;
+        while (q[--j] > x)
+            ;
         if (i < j)
             swap(q[i], q[j]);
     }
 
     // if (k <= j)
     qsort(q, l, j);
-    // else if (k >= j + 1)
+    // else if (k >= i)
     qsort(q, j + 1, r);
     // else
     // {
@@ -43,6 +41,7 @@ int main()
         scanf("%d", &a[i]);
 
     qsort(a, 0, n - 1);
+
     for (int i = 0; i < n; i++)
         printf("%d ", a[i]);
     return 0;
