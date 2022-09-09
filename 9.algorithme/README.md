@@ -169,12 +169,17 @@ int main()
 
 - 视频 第10课
 
-<video src="https://www.imcr.top/Vidies/10th.mp4" width="800px" height="600px" controls="controls"></video>
+<video src="https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/10th.mp4" width="800px" height="600px" controls="controls"></video>
 
-[下载第10课视频](https://www.imcr.top/Vidies/10th.mp4)
+[下载第10课视频](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/10th.mp4)
 
 
 
+- 视频 第11课
+
+<video src="https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/11th-1.mp4" width="800px" height="600px" controls="controls"></video>
+
+[下载第11课视频](https://c44bdf47ba484aa98328d13683451955.apig.cn-east-3.huaweicloudapis.com/Vidies/11th-1.mp4)
 
 
 ---
