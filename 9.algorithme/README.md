@@ -26,18 +26,18 @@ void qsort(int q[], int l, int r)
     if (l >= r)
         return;
 
-    int x = q[l], i = l - 1, j = r + 1;
+    int x = q[l];  // 选取x  l~r
+    
+    int i = l - 1, j = r + 1;
     while (i < j)
     {
-        do
-            i++;
-        while (q[i] < x);
-        do
-            j--;
-        while (q[j] > x);
+
+        while (q[++i] < x);
+        while (q[--j] > x);
         if (i < j)
             swap(q[i], q[j]);
     }
+    // 继续递归
     qsort(q, l, j);
     qsort(q, j + 1, r);
 }
