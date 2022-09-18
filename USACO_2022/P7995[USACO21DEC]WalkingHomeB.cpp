@@ -61,33 +61,43 @@ int main()
         {
             if (c_left(0, N - 1) + c_down(0, N - 1) == 0)
                 ans++;
-            if (c_left(0, N - 1) + c_down(0, N - 1) == 0)
+            if (c_up(N - 1, 0) + c_right(N - 1, 0) == 0)
                 ans++;
         }
+
+
         if (K >= 2)
         {
-            for (int i = 1; i < N-1; i++)
+            for (int i = 1; i < N - 1; i++)
                 if (c_up(i, 0) + c_right(i, 0) + c_down(i, N - 1) == 0)
                     ans++;
-            for (int j = 1; j < N-1; j++)
+            for (int j = 1; j < N - 1; j++)
                 if (c_left(0, j) + c_down(0, j) + c_right(N - 1, j) == 0)
                     ans++;
         }
+
+
         if (K >= 3)
         {
-            for (int i = 1; i < N-1; i++)
-                for (int j = 1; j < N-1; j++)
+            for (int i = 1; i < N - 1; i++)
+                for (int j = 1; j < N - 1; j++)
                 {
                     if (c_up(i, j) + c_right(i, j) + c_left(0, j) + c_down(i, N - 1) == 0)
                         ans++;
                 }
-            for (int i = 1; i < N-1; i++)
-                for (int j = 1; j < N-1; j++)
+            for (int i = 1; i < N - 1; i++)
+                for (int j = 1; j < N - 1; j++)
                 {
                     if (c_down(i, j) + c_left(i, j) + c_up(i, 0) + c_right(N - 1, j) == 0)
                         ans++;
                 }
         }
+        // for (int i = 1; i < N - 1; i++)
+        // {
+        //     for (int j = 1; j < N - 1; j++)
+        //         cout << c_up(i, j) << c_down(i, j) << c_left(i, j) << c_right(i, j) << ' ';
+        //     cout << endl;
+        // }
 
         cout << ans << endl;
     }
